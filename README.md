@@ -1,5 +1,5 @@
 # Download:
-https://github.com/cryptogeek/SecureBackup/raw/master/SecureBackup%20Portable.zip
+https://github.com/cryptogeek/NoReboot/raw/master/NoReboot.exe
 
 # Description:
 Prevents Windows from automatically rebooting for updates.
@@ -8,4 +8,4 @@ Prevents Windows from automatically rebooting for updates.
 Windows 10  
 
 # Changelog:
-https://raw.githubusercontent.com/cryptogeek/SecureBackup/master/changelog.txt
+https://raw.githubusercontent.com/cryptogeek/NoReboot/master/changelog.txt
