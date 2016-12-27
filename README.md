@@ -2,7 +2,7 @@
 https://github.com/cryptogeek/NoReboot/raw/master/NoReboot.exe
 
 # Description:
-Prevents Windows from automatically rebooting for updates.
+Prevents Windows 10 from automatically rebooting for updates.
 
 # Supported OS: 
 Windows 10  
